@@ -9,23 +9,20 @@
 
 ## Nom
 
-Skywalker
+Gutmanski
 
 ## Prénom
 
-Luke
+Marcin
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle Marcin, je suis étudiant en informatique de gestion. J'ai précédemment étudié la chimie pendant 4 ans à l'ULB.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+J'aime apprendre de nouvelles choses en informatique, car selon moi, lorsqu'on a tous les outils de bas nécessaires, on peut faire (quasi) tout ce qui est imaginable. 
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+Contrairement aux attentes de mon enseignant, je ne suis pas sévère et exigeant, je suis très sévère et très exigeant. 
+
+J'ai hâte de découvrir ce que ce cours a à nous offrir.
